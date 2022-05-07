@@ -1,0 +1,33 @@
+The dataset comes from one of the leading apartment rental websites.
+The data contains 29 columns with one predictor variable (log_price).  
+
+Column descriptions:
+id - identifier
+log_price - logarithmic price of the apartment (target variable)
+property_type - property type
+room_type - type of room
+amenities - available amenities
+accomodates - number of persons
+bathrooms - number of bathrooms 
+bed_type - type of bed
+cancellaion_policy - cancellation policy
+cleaning_fee - cleaning fee
+city - city
+description - description of the apartment
+first_review - date of first review
+host_has_profile_picture - whether the apartment owner has a profile picture
+host_identity_verification - whether the host is verified
+host_response_rate - how often the host responds to requests
+host_since - since when does the owner provide access to the apartment
+instant_bookable - whether the apartment is available for booking immediately
+last_review - date of last review
+latitude - latitude of the building
+longitude - longitude of the building
+name - the name of the apartment offer
+neighbourhood - district/neighbourhood where the apartment is located
+number_of_reviews - the number of reviews
+review_scores_rate - users rating
+thumbnail_url - link to the thumbnail of the host
+zipcode - zip code
+bedrooms - the number of bedrooms
+beds - number of beds
