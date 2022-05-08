@@ -4,3 +4,4 @@
 *.txt filter=lfs diff=lfs merge=lfs -text
 *.py filter=lfs diff=lfs merge=lfs -text
 *.ipynb filter=lfs diff=lfs merge=lfs -text
+*.mplstyle filter=lfs diff=lfs merge=lfs -text
